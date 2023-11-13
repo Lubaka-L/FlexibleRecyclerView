@@ -16,3 +16,9 @@ Eсть экран с RecyclerView, на нем есть список в два 
 * [Coroutines](https://github.com/Kotlin/kotlinx.coroutines)
 * [Flow](https://kotlinlang.org/docs/flow.html)
 
+* ### Preview
+
+<p align="center">
+<img src="FlexibleRecyclerView.gif" width="32%"/>
+</p>
+
